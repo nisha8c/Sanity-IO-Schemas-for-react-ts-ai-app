@@ -21,5 +21,10 @@ export default {
                 hotspot: true,
             }
         },
+        {
+            name: 'level',
+            title: 'Level',
+            type: 'string'
+        },
     ]
 }
